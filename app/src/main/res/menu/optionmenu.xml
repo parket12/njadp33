@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_settings"
+        android:title="Удалить" />
+    <item
+        android:id="@+id/open"
+        android:title="Создать" />
+    <item
+        android:id="@+id/save"
+        android:title="Открыть" />
+</menu>

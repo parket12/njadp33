@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">wwBurg</string>
+    <string name="navigation_drawer_open">Меню</string>
+    <string name="navigation_drawer_close">Закрыть</string>
+    <string name="action_settings">Настроить</string>
+    <string name="open">Создать</string>
+    <string name="save">Удалить</string>
+    <!-- Добавьте другие необходимые строки -->
+</resources>
